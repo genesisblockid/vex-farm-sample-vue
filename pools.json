@@ -1,0 +1,44 @@
+{
+  "pools":[
+    {
+      "poolid": 1,
+      "epoch": 1616825000,
+      "duration": 604800,
+      "maxSupply": 2500,
+      "poolContract": "testingfinan",
+      "sTokenContract": "vex.token",
+      "sTokenSymbol": "VEX",
+      "sTokenPrecision": 4
+    },
+    {
+      "poolid": 2,
+      "epoch": 1616825000,
+      "duration": 604800,
+      "maxSupply": 3000,
+      "poolContract": "testingfinan",
+      "sTokenContract": "vyndaoutoken",
+      "sTokenSymbol": "USDV",
+      "sTokenPrecision": 6
+    },
+    {
+      "poolid": 3,
+      "epoch": 1616825000,
+      "duration": 604800,
+      "maxSupply": 2500,
+      "poolContract": "testingfinan",
+      "sTokenContract": "vyndaoutoken",
+      "sTokenSymbol": "VYN",
+      "sTokenPrecision": 8
+    },
+    {
+      "poolid": 4,
+      "epoch": 1616825000,
+      "duration": 604800,
+      "maxSupply": 2500,
+      "poolContract": "testfinances",
+      "sTokenContract": "djvtokenvexa",
+      "sTokenSymbol": "DJV",
+      "sTokenPrecision": 8
+    }
+  ]
+}

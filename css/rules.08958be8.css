@@ -1,0 +1,55 @@
+.slogan[data-v-04589b4e] {
+    padding: 60px 0 20px 0;
+    text-align: center
+}
+
+.slogan .image[data-v-04589b4e] {
+    width: 120px;
+    line-height: 0;
+    margin: 0 auto
+}
+
+.slogan .image img[data-v-04589b4e] {
+    width: 120px;
+    height: auto
+}
+
+.slogan .title[data-v-04589b4e] {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #5b3926;
+    font-size: 36px;
+    font-weight: 700;
+    padding-top: 18px
+}
+
+.slogan .beta[data-v-04589b4e] {
+    margin-top: 20px;
+    margin-left: 5px;
+    color: red;
+    font-size: 16px
+}
+
+.slogan .conent[data-v-04589b4e] {
+    color: #aa9585;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 10px
+}
+
+@media only screen and (max-width:900px) {
+    .slogan .title[data-v-04589b4e] {
+        font-size: 32px
+    }
+}
+
+.tips[data-v-53bdba21] {
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #000
+}

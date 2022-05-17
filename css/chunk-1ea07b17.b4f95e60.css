@@ -1,0 +1,61 @@
+/*
+ *   Copyright (c) 2021 
+ *   All rights reserved.
+ */
+.slogan[data-v-04589b4e] {
+    padding: 60px 0 20px 0;
+    text-align: center
+}
+
+.slogan .image[data-v-04589b4e] {
+    width: 120px;
+    line-height: 0;
+    margin: 0 auto
+}
+
+.slogan .image img[data-v-04589b4e] {
+    width: 120px;
+    height: auto
+}
+
+.slogan .title[data-v-04589b4e] {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #0f0f0e;
+    font-size: 36px;
+    font-weight: 700;
+    padding-top: 18px
+}
+
+.slogan .beta[data-v-04589b4e] {
+    margin-top: 20px;
+    margin-left: 5px;
+    color: red;
+    font-size: 16px
+}
+
+.slogan .conent[data-v-04589b4e] {
+    color: #f9f5f2;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 10px
+}
+
+@media only screen and (max-width:900px) {
+    .slogan .title[data-v-04589b4e] {
+        font-size: 32px
+    }
+}
+
+.end-time[data-v-702af7c8] {
+    display: inline-block;
+    width: .8rem;
+    height: .44rem;
+    line-height: .44rem;
+    background-color: #666;
+    border-radius: .08rem
+}
